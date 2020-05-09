@@ -118,6 +118,7 @@ markup.
 HTML 1.0 was the first version of HTML, used from 1989 to 1994. It was a very limited version and included only 20 elements. There wasn’t much that could be done with it and therefore most webpages ended up looking very similar due to the inability to do things such as; alter the page background, determine fonts and use tables and forms.
 
  
+ 
 #### DOCTYPE
 ```
 <!DOCTYPE html PUBLIC
