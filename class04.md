@@ -257,3 +257,19 @@ the columns next to each other: **(width, float, margin)
 
 
  
+
+
+# Functions :
+
+Browsers require very detailed instructions about what we want them to do. Therefore, complex scripts can run to hundreds (even thousands) of lines. Programmers use functions, methods, and objects to organize their code. This chapter is divided into three sections that introduce
+
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 
+
+> `function sayHello() {`
+> `document.write('Hello');
+> `}`
+
+## calling functions :
+
+> `sayHello();`
+
